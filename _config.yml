@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1033713
+  lightness: 0.7180451
+  brandStrength: 1
+  brandColors:
+    - '#030303'
+    - '#FFFFFF'
+    - '#2C2717'
+    - '#514C2B'
+    - '#B39D60'
+  rhythmicContrast: 0.3022286
+typography_spectrum: 0.8920515
+name: Light|Shadow
